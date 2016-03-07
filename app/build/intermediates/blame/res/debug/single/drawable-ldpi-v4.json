@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "/Users/eandreevici/Development/libraries/MediaChooser/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/ic_video_unselect_from_media_chooser_header_bar.png",
+        "source": "/Users/eandreevici/Development/libraries/MediaChooser/app/build/generated/res/pngs/debug/drawable-ldpi/ic_video_unselect_from_media_chooser_header_bar.png"
+    },
+    {
+        "merged": "/Users/eandreevici/Development/libraries/MediaChooser/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/ic_check_white.png",
+        "source": "/Users/eandreevici/Development/libraries/MediaChooser/app/build/generated/res/pngs/debug/drawable-ldpi/ic_check_white.png"
+    },
+    {
+        "merged": "/Users/eandreevici/Development/libraries/MediaChooser/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/ic_video_selected_from_media_chooser_header_bar.png",
+        "source": "/Users/eandreevici/Development/libraries/MediaChooser/app/build/generated/res/pngs/debug/drawable-ldpi/ic_video_selected_from_media_chooser_header_bar.png"
+    },
+    {
+        "merged": "/Users/eandreevici/Development/libraries/MediaChooser/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/ic_camera_unselect_from_media_chooser_header_bar.png",
+        "source": "/Users/eandreevici/Development/libraries/MediaChooser/app/build/generated/res/pngs/debug/drawable-ldpi/ic_camera_unselect_from_media_chooser_header_bar.png"
+    },
+    {
+        "merged": "/Users/eandreevici/Development/libraries/MediaChooser/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/ic_loading.png",
+        "source": "/Users/eandreevici/Development/libraries/MediaChooser/app/build/generated/res/pngs/debug/drawable-ldpi/ic_loading.png"
+    },
+    {
+        "merged": "/Users/eandreevici/Development/libraries/MediaChooser/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/ic_navigation_left_from_media_chooser_header_bar.png",
+        "source": "/Users/eandreevici/Development/libraries/MediaChooser/app/build/generated/res/pngs/debug/drawable-ldpi/ic_navigation_left_from_media_chooser_header_bar.png"
+    },
+    {
+        "merged": "/Users/eandreevici/Development/libraries/MediaChooser/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/ic_camera_selected_from_media_chooser_header_bar.png",
+        "source": "/Users/eandreevici/Development/libraries/MediaChooser/app/build/generated/res/pngs/debug/drawable-ldpi/ic_camera_selected_from_media_chooser_header_bar.png"
+    }
+]

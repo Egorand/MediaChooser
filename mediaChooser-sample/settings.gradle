@@ -1,2 +1,0 @@
-include ':app', ':mediachooserlibrary'
-project(':mediachooserlibrary').projectDir = new File('app/libs/MediaChooser-library/app')
