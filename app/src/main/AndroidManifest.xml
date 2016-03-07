@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
-<manifest package="com.learnncode.mediachooser"
-          xmlns:android="http://schemas.android.com/apk/res/android">
+<manifest package="com.learnncode.mediachooser">
 
-    <application android:name=".Utilities.MediaApps"></application>
+    <application/>
 
 </manifest>
